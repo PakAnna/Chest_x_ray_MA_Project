@@ -18,8 +18,10 @@ For the analysis of chest x-ray images, all chest radiographs were initially scr
 
 Code execution steps: 
 
-Execute cell by cell from Chest_x_ray.ipynb. Put Jupyter Notebook ашду exactly as it is in a github folder.
+Execute cell by cell from chest_x_ray_code.ipynb. Put Jupyter Notebook on your device exactly as it is in a github folder with a dataset.
 
 	Github Link: 
 
 		https://github.com/PakAnna/Chest_x_ray_MA_Project
+
+Also you can use load_model function from keras.models to load 'chestxray.h5' model and test it, without training.
